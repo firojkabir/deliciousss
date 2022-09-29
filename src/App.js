@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <Nav>
         <GiKnifeFork />
-        <Logo to={'/'}>deliciousss</Logo>
+        <Logo to={'/'}>deliciousss!!</Logo>
       </Nav>
       <Search />
       <Category />
