@@ -11,6 +11,7 @@ function Search() {
     e.preventDefault();
     navigate("/searched/" + input);
   };
+
   return (
     <FormStyle onSubmit={submitHandler}>
       <div>
@@ -44,6 +45,7 @@ const FormStyle = styled.form`
     outline: none;
     width: 100%;
   }
+
   svg {
     position: absolute;
     top: 50%;

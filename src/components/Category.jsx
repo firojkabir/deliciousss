@@ -62,6 +62,7 @@ const StyleLink = styled(NavLink)`
     svg {
       color: white;
     }
+
     h4 {
       color: white;
     }
